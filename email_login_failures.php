@@ -16,9 +16,9 @@ $hours_ago = 25;
 // Set the variable for number of failures to consider too many
 $too_many = 6;
 // Set the variable for who the email should be sent to
-$send_to = "Sue Lowry <sklowry@umn.edu>";
+$send_to = "Sue Lowry <redcap@umn.edu>";
 // Set the variable for who the email should be sent from
-$send_from = "Sue Lowry <sklowry@umn.edu>";
+$send_from = "Sue Lowry <redcap@umn.edu>";
 
 // Read debugLog flag
 $debugLog = false;
